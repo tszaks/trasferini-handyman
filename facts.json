@@ -1,0 +1,92 @@
+{
+  "business_name": "Trasferini Handyman Service LLC",
+  "business_first_name": "Trasferini",
+  "trade": "handyman",
+  "phone": "(267) 353-1102",
+  "email": "Trasferini.dennis@gmail.com",
+  "address": "Almonesson Rd, Woodbury, NJ 08096",
+  "city": "Woodbury",
+  "state": "NJ",
+  "zip": "08096",
+  "lat": "39.83792",
+  "lng": "-75.1042",
+  "google_rating": 3.7,
+  "review_count": 4,
+  "schema_type": "HomeAndConstructionBusiness",
+  "hero_photo_path": "/home/ubuntu/.hermes/skills/finn/local-biz-site/assets/photos/handyman-craftsman-planing-wood.jpg",
+  "maps_embed_url": "https://maps.google.com/maps?q=Almonesson+Rd+Woodbury+NJ+08096&output=embed",
+  "hours_display": "Monday: 8:00 AM - 6:00 PM | Tuesday: 8:00 AM - 6:00 PM | Wednesday: 8:00 AM - 6:00 PM | Thursday: 8:00 AM - 6:00 PM | Friday: 8:00 AM - 6:00 PM",
+  "hours_short": "Mon-Fri 8AM-6PM",
+  "hours_schema": "Mo-Fr 08:00-18:00",
+  "years_in_business": "5+",
+  "service_area": "Woodbury and surrounding areas",
+  "service_areas": [
+    "Woodbury",
+    "NJ"
+  ],
+  "service_descriptions": [
+    {
+      "title": "Flooring Installation & Repair",
+      "description": "Professional flooring installation & repair services in Woodbury, NJ."
+    },
+    {
+      "title": "Drywall Repair",
+      "description": "Professional drywall repair services in Woodbury, NJ."
+    },
+    {
+      "title": "Door & Window Installation",
+      "description": "Professional door & window installation services in Woodbury, NJ."
+    },
+    {
+      "title": "Deck Installation & Repair",
+      "description": "Professional deck installation & repair services in Woodbury, NJ."
+    },
+    {
+      "title": "Painting & Staining",
+      "description": "Professional painting & staining services in Woodbury, NJ."
+    },
+    {
+      "title": "Pressure Washing",
+      "description": "Professional pressure washing services in Woodbury, NJ."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you serve Woodbury and the surrounding area?",
+      "a": "Yes, we serve Woodbury, NJ and nearby communities."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes, we are fully licensed and insured for your protection."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Call or text us and we'll get back to you promptly with a free estimate."
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Property Owner",
+      "text": "I've used Dennis several times to make repairs or improvements to the property I own. He's professional, does great work, and above all, a trustworthy, decent contractor that I'm thrilled to have when I need. Highly recommend!",
+      "rating": 5
+    }
+  ],
+  "railway_url": "",
+  "canonical_url": "",
+  "stat1_value": "4",
+  "stat1_label": "Reviews",
+  "stat2_value": "3.7",
+  "stat2_label": "Star Rating",
+  "stat3_value": "5+",
+  "stat3_label": "Years Experience",
+  "stat4_value": "100%",
+  "stat4_label": "Satisfaction",
+  "headline_line1": "Professional Handyman in Woodbury",
+  "headline_line2": "Serving NJ Since Day One",
+  "hero_body": "Local, reliable, and ready to help. Call today for a free estimate.",
+  "cta_heading": "Ready to Get Started?",
+  "cta_sub": "Contact us today for a free estimate in Woodbury.",
+  "service_area1": "Woodbury",
+  "service_area2": "NJ",
+  "service_areas_list": "Woodbury, NJ and surrounding areas"
+}
