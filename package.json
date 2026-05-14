@@ -1,0 +1,11 @@
+{
+  "name": "local-biz-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve public -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
